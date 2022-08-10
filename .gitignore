@@ -1,1 +1,64 @@
+# Compiled source #
+###################
+*.msi
+*.exe
+*.com
+*.class
+*.licx
+*.o
+*.so
+*.suo
+*.pdb
+*.vbproj.user
+*.csproj.user
+
+#Tooling
+_ReSharper*/
+_ReSharper.*
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+*.ReSharper.user
+*.cache
+*.txt
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+~$*
+
+# Directories #
+######################
+bin/
+/obj/
+/obj/
+/obj
+debug/
+/Debug
+Debug/
+release/
+/packages
+/.vs
